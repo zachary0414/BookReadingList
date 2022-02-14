@@ -1,0 +1,20 @@
+2021-06-16 11:52:42.782  INFO 8136 --- [main] c.example.BookList.BookListApplication   : Starting BookListApplication using Java 1.8.0_292 on DESKTOP-L8JQSNC with PID 8136 (C:\Users\zac\IdeaProjects\StockHolding\target\classes started by zac in C:\Users\zac\IdeaProjects\StockHolding)
+2021-06-16 11:52:42.785 DEBUG 8136 --- [main] c.example.BookList.BookListApplication   : Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-16 11:52:42.785  INFO 8136 --- [main] c.example.BookList.BookListApplication   : No active profile set, falling back to default profiles: default
+2021-06-16 11:52:43.781  INFO 8136 --- [main] c.example.BookList.BookListApplication   : Started BookListApplication in 1.467 seconds (JVM running for 2.144)
+2021-06-16 11:52:59.295  INFO 3900 --- [main] c.example.BookList.BookListApplication   : Starting BookListApplication using Java 1.8.0_292 on DESKTOP-L8JQSNC with PID 3900 (C:\Users\zac\IdeaProjects\StockHolding\target\classes started by zac in C:\Users\zac\IdeaProjects\StockHolding)
+2021-06-16 11:52:59.298 DEBUG 3900 --- [main] c.example.BookList.BookListApplication   : Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-16 11:52:59.298  INFO 3900 --- [main] c.example.BookList.BookListApplication   : No active profile set, falling back to default profiles: default
+2021-06-16 11:53:00.324  INFO 3900 --- [main] c.example.BookList.BookListApplication   : Started BookListApplication in 1.435 seconds (JVM running for 2.1)
+2021-06-16 11:54:58.177  INFO 3272 --- [main] c.example.BookList.BookListApplication   : Starting BookListApplication using Java 1.8.0_292 on DESKTOP-L8JQSNC with PID 3272 (C:\Users\zac\IdeaProjects\StockHolding\target\classes started by zac in C:\Users\zac\IdeaProjects\StockHolding)
+2021-06-16 11:54:58.180 DEBUG 3272 --- [main] c.example.BookList.BookListApplication   : Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-16 11:54:58.181  INFO 3272 --- [main] c.example.BookList.BookListApplication   : No active profile set, falling back to default profiles: default
+2021-06-16 11:54:59.205  INFO 3272 --- [main] c.example.BookList.BookListApplication   : Started BookListApplication in 1.55 seconds (JVM running for 2.221)
+2021-06-16 11:55:27.286  INFO 13528 --- [main] c.example.BookList.BookListApplication   : Starting BookListApplication using Java 1.8.0_292 on DESKTOP-L8JQSNC with PID 13528 (C:\Users\zac\IdeaProjects\StockHolding\target\classes started by zac in C:\Users\zac\IdeaProjects\StockHolding)
+2021-06-16 11:55:27.288 DEBUG 13528 --- [main] c.example.BookList.BookListApplication   : Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-16 11:55:27.288  INFO 13528 --- [main] c.example.BookList.BookListApplication   : No active profile set, falling back to default profiles: default
+2021-06-16 11:55:28.283  INFO 13528 --- [main] c.example.BookList.BookListApplication   : Started BookListApplication in 1.405 seconds (JVM running for 2.138)
+2021-06-16 11:55:54.201  INFO 2636 --- [main] c.example.BookList.BookListApplication   : Starting BookListApplication using Java 1.8.0_292 on DESKTOP-L8JQSNC with PID 2636 (C:\Users\zac\IdeaProjects\StockHolding\target\classes started by zac in C:\Users\zac\IdeaProjects\StockHolding)
+2021-06-16 11:55:54.204 DEBUG 2636 --- [main] c.example.BookList.BookListApplication   : Running with Spring Boot v2.5.0, Spring v5.3.7
+2021-06-16 11:55:54.204  INFO 2636 --- [main] c.example.BookList.BookListApplication   : No active profile set, falling back to default profiles: default
+2021-06-16 11:55:55.420  INFO 2636 --- [main] c.example.BookList.BookListApplication   : Started BookListApplication in 1.734 seconds (JVM running for 2.525)

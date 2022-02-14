@@ -1,0 +1,13 @@
+
+spring:
+  profiles:
+    active: develop
+  thymeleaf:
+    mode: HTML
+
+
+book:
+  name: 简爱
+  author: 勃朗特
+  isbn: ${random.uuid}
+  description: ${book.name}, is a good book.
